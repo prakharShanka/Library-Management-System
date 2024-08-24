@@ -1,0 +1,12 @@
+# Requirements for Library Management System
+PHP >= 7.4
+MySQL >= 5.7
+
+# Required PHP Extensions
+pdo_mysql
+mbstring
+openssl
+tokenizer
+xml
+ctype
+json
